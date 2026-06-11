@@ -7,3 +7,8 @@ A console-based Food Ordering System using C++.
 - View Menu
 - Add to Cart
 - Generate Bill
+
+## Installation
+
+g++ main.cpp -o food
+./food
